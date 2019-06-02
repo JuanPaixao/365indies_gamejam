@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: Clint - S06T01_R
+  m_EditorClassIdentifier: 
+  NPCName: Clint
+  sentences:
+  - "Exatamente. Finalmente voc\xEA deu uma bola dentro e n\xE3o preciso explicar
+    tudo, Joe. Eu j\xE1 estava come\xE7ando a ficar com dor de garganta."
+  - "\xDAnica coisa que eu n\xE3o sabia: eles tinham um espa\xE7o pequeno para armazenar
+    o ouro. "
+  - "Eu tinha que levar a um dispositivo que parece com uma m\xE1quina de lavar para
+    sobrar mais espa\xE7o e assim coletar mais ouro."

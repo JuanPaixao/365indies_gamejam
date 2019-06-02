@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: Clint - S04T05
+  m_EditorClassIdentifier: 
+  NPCName: Clint
+  sentences:
+  - "O cabo vermelho aumentava significativamente a pot\xEAncia da m\xE1quina, facilitando
+    no processamento dos experimentos realizados e aumentando a produtividade de todos"
+  - "Entretanto, correria o risco da superpot\xEAncia da m\xE1quina eletrocutar algu\xE9m
+    pr\xF3ximo e a possibilidade n\xE3o seria pequena segundo meus c\xE1lculos."
+  - "O azul deixaria a m\xE1quina como sempre foi... devagar at\xE9 parar. Mas estava
+    pensando se n\xE3o iria aumentar minha aus\xEAncia com meu filho com esses favores
+    extras que eu estava fazendo."

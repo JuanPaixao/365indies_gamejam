@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: Joe -  S08T01_Y
+  m_EditorClassIdentifier: 
+  NPCName: Detetive Joe
+  sentences:
+  - "Muito bom, assim que terminarmos aqui vou enviar seu depoimento para meus superiores
+    e a produ\xE7\xE3o da empresa continuar\xE1 a todo vapor."
+  - "Bom saber que existe um depoimento leg\xEDtimo, Clint. A pergunta \xE9: valeu
+    a pena estar aqui onde voc\xEA est\xE1 agora?"

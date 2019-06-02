@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: BigBoss - S07T01
+  m_EditorClassIdentifier: 
+  NPCName: Big Boss
+  sentences:
+  - Estava te esperando em minha sala.
+  - "J\xE1 previa seu atraso, pois voc\xEA um trabalhador digno de nota que leva seu
+    servi\xE7o em primeiro lugar, n\xE3o se pode dizer o mesmo das reuni\xF5es com
+    hora marcada."
+  - Por favor, me acompanhe.
+  - Veja, eu sou apenas 1/3 desse aglomerado de engravatados buscando fortuna.
+  - "Nossa miss\xE3o de fechar a camada de oz\xF4nio \xE9 t\xE3o leg\xEDtima para
+    nossa na\xE7\xE3o quanto levar o homem \xE0 lua, e n\xE3o estamos preocupados
+    em quem vamos pisar para completar a miss\xE3o."
+  - "Eu te proponho um significante aumento de zeros em seu cheque todo fim de semana,
+    e se dinheiro \xE9 bobagem para sua pessoa igual vejo em alguns babacas por a\xED,"
+  - "n\xF3s garantiremos que nada de ruim aconte\xE7a com voc\xEA ou seu filho. Voc\xEA
+    ter\xE1 a melhor prote\xE7\xE3o poss\xEDvel. Tudo isso com a condi\xE7\xE3o de
+    esquecer o que voc\xEA viu nesses \xFAltimos dias."
+  - "Mas sem press\xE3o, apenas considere sua vida em jogo."

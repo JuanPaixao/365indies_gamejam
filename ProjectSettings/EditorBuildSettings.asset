@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9feb68ce942a4f643b79686ad86f423b
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_02.5 BadEnding.unity
+    guid: 5e921a6fdd7b85f469866e41348798be
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_02_NOTUSED.unity
+    guid: 543beb0f58973644dbf303e67a245732
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_03.unity
+    guid: 45d9a2582dd74d243a54410b16268418
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_04.unity
+    guid: da5ae581710b62541bd056f98b1eefaa
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Bad_Ending_cutscene.unity
+    guid: dbcce822d75a0df4cb91a6a000ec28fc
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Good_Ending_cutscene.unity
+    guid: 80803d38e5a975b43949736d7c61b588
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Neutral_Ending_cutscene.unity
+    guid: 73d8836b2152c9040889fc2487d72e8d
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Perfect_Ending_cutscene.unity
+    guid: 6c42756a3ca968649812ce5df302ff1d
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_Blue.unity
+    guid: 8491bb7be991c024188703fa9973b673
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_05_Blue.unity
+    guid: 8957b16e46df13142ac1fdbbd2102480
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_05_Red.unity
+    guid: deb3350b56483a54abc8d02f3fe8c025
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_06.1Robot_Red.unity
+    guid: e69921a3551371c43a784df08e4f6fe6
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_First.unity
+    guid: d7cbfaa5159cd1c48b691a50138568a1
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_Papers.unity
+    guid: 84dc633c755e73741901a151e80b479e
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_06.5_Blue.unity
+    guid: b563b6901d07a9a4e9dfaebc41ffafb6
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_06_Blue.unity
+    guid: 720fa2d497a687e4fbd16640d7a1e6d3
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_06_Red.unity
+    guid: ff01a1f7d471f8b4b8223f8d0bb78430
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_07.unity
+    guid: eb0b8078784f2d142a1c5ce649578785
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_08.no.unity
+    guid: 5ab4cc79709416441a1f9162caabc2f1
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_08.yes.unity
+    guid: 92728ebf8bd23dc4fadefdfe891aae56
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_09.unity
+    guid: d523ba75107fb394f8890aa44e8319bb
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Bad_Ending.unity
+    guid: 3d2f8ed88b82e0a499a44aa9a066c6e4
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Good_Ending.unity
+    guid: 48401f6486b1abf4ea4788c99f2471ab
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Neutral_Ending.unity
+    guid: 9358f080fb41b8a4089d7b7ecfb38b88
+  - enabled: 1
+    path: Assets/Scenes/Dialogue_10- Perfect_Ending.unity
+    guid: d4b71ed2f8b84344caa55a169c694ff8
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_Last.unity
+    guid: 8fe8fd69657d5d6439fdb4a653821c8b
+  - enabled: 1
+    path: Assets/Scenes/Puzzle_Red.unity
+    guid: 2a46322df231cda4a9fb678e38127d7b
+  - enabled: 1
+    path: Assets/Scenes/Underground.unity
+    guid: dbcf4a076c9fd4e468fdb04423140ad3
+  - enabled: 1
+    path: Assets/Scenes/Ending.unity
+    guid: 54a75ff66f630b24d9c524f469f6e023
+  m_configObjects: {}

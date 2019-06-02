@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: Clint - S01T03
+  m_EditorClassIdentifier: 
+  NPCName: Clint
+  sentences:
+  - "Escute aqui meu jovem, voc\xEA entra aqui e j\xE1 me interroga com assuntos que
+    n\xE3o s\xE3o de sua conta e conseguiu o feito de me irritar antes mesmo do interrogat\xF3rio
+    come\xE7ar."
+  - "Ent\xE3o por qu\xEA n\xE3o vamos direto ao assunto que \xE9... eu nem sei sobre
+    o qu\xEA se trata."

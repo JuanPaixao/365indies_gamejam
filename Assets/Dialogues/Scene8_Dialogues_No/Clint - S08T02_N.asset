@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8328f32176af66448f4d9a2b8c7011a, type: 3}
+  m_Name: Clint - S08T02_N
+  m_EditorClassIdentifier: 
+  NPCName: Clint
+  sentences:
+  - "Levando em conta tudo que j\xE1 contei, consigo me lembrar da minha \xFAltima
+    a\xE7\xE3o significativa antes de sair da empresa."
+  - "Foi num dos meus cinco minutos de anarquia que eu n\xE3o queria deixar aquele
+    sistema sujo continuar."
+  - "Eu entrei na \"sala-m\xE3e\" das informa\xE7\xF5es da empresa usando t\xE1ticas
+    de arrombamento na fechadura e consegui me esconder das c\xE2meras de seguran\xE7a...
+    eu era bem magro."
+  - "E l\xE1 estava eu de novo, me deparando com mais fios para desenrolar e desconectar."
